@@ -1,0 +1,20 @@
+//1力量型：高攻击；   
+//2肉盾型：高生命值； 
+//3防御型：高防御；   
+//4敏捷型：低攻击间隔 
+
+沙瓦朗 Chavaran 格斗攻击
+火爆猴 HotMonkey 火焰攻击
+腕力 Force 格斗攻击
+
+卡比兽 石化攻击 KabiBeast
+泥偶巨人 幽灵攻击 MudGiant
+白海狮 水攻击 WhiteSeaLion
+
+车轮球 毒攻击 WheelBall
+树枕尾熊 催眠攻击 TreeTailedBearTreeTailedBear
+梦妖 幽灵攻击 DreamDemon
+
+豆豆鸽 飞行攻击 BeanPigeon
+花舞鸟 火攻击 FlowerBirds
+电飞鼠 电攻击 ElectricFlyingRat

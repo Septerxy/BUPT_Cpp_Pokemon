@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>InitialBack.jpg</file>
+        <file>regisorloginBack.jpg</file>
+        <file>loginBcak.jpg</file>
+        <file>user.JPG</file>
+        <file>packet.jpg</file>
+        <file>award.jpg</file>
+        <file>userback.jpg</file>
+        <file>mvp.jpg</file>
+        <file>user.txt</file>
+    </qresource>
+</RCC>
